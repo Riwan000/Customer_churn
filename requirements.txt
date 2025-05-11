@@ -1,0 +1,12 @@
+pandas 
+numpy 
+matplotlib 
+seaborn 
+plotly 
+xgboost 
+imbalanced-learn 
+scipy 
+joblib
+watson-machine-learning-client-v4==1.0.103
+pyspark
+scikit-learn
